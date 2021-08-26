@@ -1,0 +1,16 @@
+D:\Projetos\POCs\Predicator\Predicator\Predicator\bin\Debug\net5.0\Busca.exe
+D:\Projetos\POCs\Predicator\Predicator\Predicator\bin\Debug\net5.0\Busca.deps.json
+D:\Projetos\POCs\Predicator\Predicator\Predicator\bin\Debug\net5.0\Busca.runtimeconfig.json
+D:\Projetos\POCs\Predicator\Predicator\Predicator\bin\Debug\net5.0\Busca.runtimeconfig.dev.json
+D:\Projetos\POCs\Predicator\Predicator\Predicator\bin\Debug\net5.0\Busca.dll
+D:\Projetos\POCs\Predicator\Predicator\Predicator\bin\Debug\net5.0\ref\Busca.dll
+D:\Projetos\POCs\Predicator\Predicator\Predicator\bin\Debug\net5.0\Busca.pdb
+D:\Projetos\POCs\Predicator\Predicator\Predicator\obj\Debug\net5.0\Busca.csproj.AssemblyReference.cache
+D:\Projetos\POCs\Predicator\Predicator\Predicator\obj\Debug\net5.0\Busca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\POCs\Predicator\Predicator\Predicator\obj\Debug\net5.0\Busca.AssemblyInfoInputs.cache
+D:\Projetos\POCs\Predicator\Predicator\Predicator\obj\Debug\net5.0\Busca.AssemblyInfo.cs
+D:\Projetos\POCs\Predicator\Predicator\Predicator\obj\Debug\net5.0\Busca.csproj.CoreCompileInputs.cache
+D:\Projetos\POCs\Predicator\Predicator\Predicator\obj\Debug\net5.0\Busca.dll
+D:\Projetos\POCs\Predicator\Predicator\Predicator\obj\Debug\net5.0\ref\Busca.dll
+D:\Projetos\POCs\Predicator\Predicator\Predicator\obj\Debug\net5.0\Busca.pdb
+D:\Projetos\POCs\Predicator\Predicator\Predicator\obj\Debug\net5.0\Busca.genruntimeconfig.cache

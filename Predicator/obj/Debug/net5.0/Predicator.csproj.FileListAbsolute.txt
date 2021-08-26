@@ -1,0 +1,15 @@
+D:\Projetos\POCs\Predicator\Predicator\Predicator\obj\Debug\net5.0\Predicator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\POCs\Predicator\Predicator\Predicator\obj\Debug\net5.0\Predicator.AssemblyInfoInputs.cache
+D:\Projetos\POCs\Predicator\Predicator\Predicator\obj\Debug\net5.0\Predicator.AssemblyInfo.cs
+D:\Projetos\POCs\Predicator\Predicator\Predicator\obj\Debug\net5.0\Predicator.csproj.CoreCompileInputs.cache
+D:\Projetos\POCs\Predicator\Predicator\Predicator\bin\Debug\net5.0\Predicator.exe
+D:\Projetos\POCs\Predicator\Predicator\Predicator\bin\Debug\net5.0\Predicator.deps.json
+D:\Projetos\POCs\Predicator\Predicator\Predicator\bin\Debug\net5.0\Predicator.runtimeconfig.json
+D:\Projetos\POCs\Predicator\Predicator\Predicator\bin\Debug\net5.0\Predicator.runtimeconfig.dev.json
+D:\Projetos\POCs\Predicator\Predicator\Predicator\bin\Debug\net5.0\Predicator.dll
+D:\Projetos\POCs\Predicator\Predicator\Predicator\bin\Debug\net5.0\ref\Predicator.dll
+D:\Projetos\POCs\Predicator\Predicator\Predicator\bin\Debug\net5.0\Predicator.pdb
+D:\Projetos\POCs\Predicator\Predicator\Predicator\obj\Debug\net5.0\Predicator.dll
+D:\Projetos\POCs\Predicator\Predicator\Predicator\obj\Debug\net5.0\ref\Predicator.dll
+D:\Projetos\POCs\Predicator\Predicator\Predicator\obj\Debug\net5.0\Predicator.pdb
+D:\Projetos\POCs\Predicator\Predicator\Predicator\obj\Debug\net5.0\Predicator.genruntimeconfig.cache
