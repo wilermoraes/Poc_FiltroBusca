@@ -13,7 +13,7 @@ namespace Predicator
             pessoas.Add(new Pessoa() { Id = Guid.NewGuid(), Nome = "Pedro Henrique", Sexo = "M", DataNascimento = new DateTime(1955, 09, 15) });
             pessoas.Add(new Pessoa() { Id = Guid.NewGuid(), Nome = "Paulo Antônio", Sexo = "M", DataNascimento = new DateTime(1980, 03, 11) });
             pessoas.Add(new Pessoa() { Id = Guid.NewGuid(), Nome = "Antonieta das Neves", Sexo = "F", DataNascimento = new DateTime(2000, 11, 05) });
-            pessoas.Add(new Pessoa() { Id = Guid.NewGuid(), Nome = "Michael Jordan", Sexo = "F", DataNascimento = new DateTime(1999, 05, 30) });
+            pessoas.Add(new Pessoa() { Id = Guid.NewGuid(), Nome = "Micaela Jordania", Sexo = "F", DataNascimento = new DateTime(1999, 05, 30) });
 
             return pessoas;
         }

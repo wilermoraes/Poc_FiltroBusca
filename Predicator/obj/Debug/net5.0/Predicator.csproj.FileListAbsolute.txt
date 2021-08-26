@@ -13,3 +13,4 @@ D:\Projetos\POCs\Predicator\Predicator\Predicator\obj\Debug\net5.0\Predicator.dl
 D:\Projetos\POCs\Predicator\Predicator\Predicator\obj\Debug\net5.0\ref\Predicator.dll
 D:\Projetos\POCs\Predicator\Predicator\Predicator\obj\Debug\net5.0\Predicator.pdb
 D:\Projetos\POCs\Predicator\Predicator\Predicator\obj\Debug\net5.0\Predicator.genruntimeconfig.cache
+D:\Projetos\POCs\Predicator\Predicator\Predicator\obj\Debug\net5.0\Predicator.csproj.AssemblyReference.cache
