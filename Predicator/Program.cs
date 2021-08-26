@@ -9,11 +9,11 @@ namespace Predicator
     {
         static void Main(string[] args)
         {
-            List<Pessoa> pessoas = Dados.ObterPessoas();
             Filtro filtro = MontarFiltro();
 
             Console.WriteLine("======== BUSCA COM IF ========");
 
+            List<Pessoa> pessoas = Dados.ObterPessoas();
             pessoas = BuscaComIf(filtro, pessoas);
             GerarResposta(pessoas);
 
@@ -24,6 +24,7 @@ namespace Predicator
 
             Console.WriteLine("======== BUSCA COM LINQ ========");
 
+            pessoas = Dados.ObterPessoas();
             pessoas = BuscaComLinq(filtro, pessoas);
             GerarResposta(pessoas);
 
@@ -33,6 +34,7 @@ namespace Predicator
 
             Console.WriteLine("======== BUSCA COM REFLECTION ========");
 
+            pessoas = Dados.ObterPessoas();
             pessoas = BuscaComReflection(filtro, pessoas);
             GerarResposta(pessoas);
 
@@ -93,7 +95,7 @@ namespace Predicator
 
                 if (!string.IsNullOrEmpty(valorCampo))
                 {
-                    pessoas = pessoas.Where(p => p.GetType().GetProperties().Where(x => x.Name == nomeCampo).FirstOrDefault().GetValue(p, null).ToString().Contains(valorCampo)).ToList();
+                    pessoas = pessoas.Where(p => p.GetType().GetProperties().Where(x => x.Name == nomeCampo).FirstOrDefault().GetValue(p, null).ToString().ToLower().Contains(valorCampo.ToLower())).ToList();
                 }
             }
 
